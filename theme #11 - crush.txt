@@ -83,7 +83,7 @@
         <meta name="select:Post Size" content="400px"/>
         <meta name="select:Post Size" content="450px"/>
         <meta name="select:Post Size" content="500px"/>
-        <meta name="select:Post Size" content="550px"/>
+        <meta name="select:Post Size" content="540px"/>
         <meta name="select:Post Size" content="600px"/>
         <meta name="select:Post Size" content="650px"/>
         
