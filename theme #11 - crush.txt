@@ -785,7 +785,7 @@
                 padding: 10px 20px;
                 break-inside: avoid;
                 margin: 0 auto;
-                color: {color:Post};
+                color: {color:Post Font};
             }
             
             #note_list a:first-child {
