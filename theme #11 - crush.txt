@@ -13,6 +13,7 @@
     - Annasthms for CSS Photosets
     - Glenthemes for NPF Post Support
     - Shythemes for Shorten Note Count
+    - Alice Oseman for sidebar image
     - https://stackoverflow.com/questions/16296166/first-image-only-from-photoset-on-indexpage-then-all-on-permalinkpage for photoset first image only
     
     If you need any help, feel free to send me a message at fallingforthemes.tumblr.com/ask
